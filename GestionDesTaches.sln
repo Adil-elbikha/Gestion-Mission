@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDesTaches", "GestionDesTaches\GestionDesTaches.csproj", "{DABDA87F-348B-4CB0-9ADE-5091097AE831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryEntities", "ClassLibraryEntities\ClassLibraryEntities.csproj", "{95B90494-BCD6-4463-A121-59231704C8E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABDA87F-348B-4CB0-9ADE-5091097AE831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABDA87F-348B-4CB0-9ADE-5091097AE831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABDA87F-348B-4CB0-9ADE-5091097AE831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABDA87F-348B-4CB0-9ADE-5091097AE831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B90494-BCD6-4463-A121-59231704C8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B90494-BCD6-4463-A121-59231704C8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B90494-BCD6-4463-A121-59231704C8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B90494-BCD6-4463-A121-59231704C8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170BDEB6-641F-4F99-9461-2B14BF4E0A7E}
+	EndGlobalSection
+EndGlobal
